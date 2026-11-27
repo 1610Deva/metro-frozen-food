@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Gubeng",
+    "latitude": -7.2756,
+    "longitude": 112.7545,
+    "is_approximate": true
+  },
+  {
+    "name": "Kenjeran",
+    "latitude": -7.248,
+    "longitude": 112.778,
+    "is_approximate": true
+  },
+  {
+    "name": "Sukolilo",
+    "latitude": -7.2905,
+    "longitude": 112.796,
+    "is_approximate": true
+  },
+  {
+    "name": "Rungkut",
+    "latitude": -7.3225,
+    "longitude": 112.7685,
+    "is_approximate": true
+  },
+  {
+    "name": "Wonokromo",
+    "latitude": -7.3015,
+    "longitude": 112.737,
+    "is_approximate": true
+  },
+  {
+    "name": "Tambaksari",
+    "latitude": -7.25,
+    "longitude": 112.764,
+    "is_approximate": true
+  },
+  {
+    "name": "Mulyorejo",
+    "latitude": -7.265,
+    "longitude": 112.79,
+    "is_approximate": true
+  },
+  {
+    "name": "Tenggilis Mejoyo",
+    "latitude": -7.321,
+    "longitude": 112.753,
+    "is_approximate": true
+  },
+  {
+    "name": "Gunung Anyar",
+    "latitude": -7.338,
+    "longitude": 112.79,
+    "is_approximate": true
+  },
+  {
+    "name": "Wonocolo",
+    "latitude": -7.32,
+    "longitude": 112.735,
+    "is_approximate": true
+  },
+  {
+    "name": "Tegalsari",
+    "latitude": -7.276,
+    "longitude": 112.738,
+    "is_approximate": true
+  },
+  {
+    "name": "Genteng",
+    "latitude": -7.259,
+    "longitude": 112.744,
+    "is_approximate": true
+  },
+  {
+    "name": "Sawahan",
+    "latitude": -7.275,
+    "longitude": 112.718,
+    "is_approximate": true
+  },
+  {
+    "name": "Jambangan",
+    "latitude": -7.319,
+    "longitude": 112.715,
+    "is_approximate": true
+  },
+  {
+    "name": "Wiyung",
+    "latitude": -7.312,
+    "longitude": 112.693,
+    "is_approximate": true
+  },
+  {
+    "name": "Lakarsantri",
+    "latitude": -7.31,
+    "longitude": 112.655,
+    "is_approximate": true
+  },
+  {
+    "name": "Benowo",
+    "latitude": -7.23,
+    "longitude": 112.645,
+    "is_approximate": true
+  }
+]

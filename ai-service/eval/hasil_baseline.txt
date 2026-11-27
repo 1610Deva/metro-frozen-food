@@ -1,0 +1,31 @@
+INTENT (latih=76, uji=55, sintetis)
+konfigurasi                   accuracy  macro F1  recall eskalasi
+A. Aturan (regex)                0.636     0.641            0.643
+B. TF-IDF char + LogReg          0.782     0.780            0.714
+
+Salah klasifikasi konfigurasi A:
+  'kemarin sosisnya sampai sudah bau': eskalasi_owner -> info_produk
+  'ini ada sertifikat halalnya': eskalasi_owner -> info_produk
+  'saya pengen ngobrol langsung sama pemiliknya': eskalasi_owner -> lainnya
+  'uang saya sudah transfer tapi pesanan dibatalkan tolong dikembalikan': eskalasi_owner -> rekomendasi_budget
+  'nuggetnya pas dibuka berjamur': eskalasi_owner -> info_produk
+  'aku cuma pegang 35rb bisa dapet apa': rekomendasi_budget -> lainnya
+  'tolong pilihin belanjaan 120 ribu untuk 4 hari': rekomendasi_budget -> lainnya
+  'lagi hemat nih, 40 ribu buat lauk': rekomendasi_budget -> lainnya
+  'sarankan isi freezer dengan 250rb': rekomendasi_budget -> info_layanan
+  'buat makan 5 hari enaknya beli apa aja': rekomendasi_budget -> resep
+  'gimana cara goreng karaage biar renyah': resep -> info_produk
+  'nugget bisa diolah jadi menu apa': resep -> info_produk
+  'mau masak dimsum, caranya': resep -> info_produk
+  'kalian jualan apa aja sih': info_produk -> eskalasi_owner
+  'nugget kosong ya di cabang gubeng': info_produk -> info_layanan
+  'kalau mau beli lewat web langkahnya gimana': info_layanan -> lainnya
+  'bisa diantar ke alamat saya': info_layanan -> lainnya
+  'terimakasih banyak': sapaan -> lainnya
+  'ada lowongan magang gak': lainnya -> info_produk
+  'jam berapa sekarang di london': lainnya -> info_layanan
+
+RETRIEVAL FAQ (dokumen=7, query=14)
+konfigurasi                      hit@1     hit@3
+A. BM25 + sinonim                0.857     0.857
+B. TF-IDF char cosine            0.714     0.857
