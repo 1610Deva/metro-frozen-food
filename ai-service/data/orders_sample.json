@@ -1,0 +1,38 @@
+{
+  "is_dummy": true,
+  "branch_id": "985244e8-7cf9-51af-a6ee-a77860ba3b5b",
+  "slot_start": "15:00",
+  "slot_end": "17:00",
+  "stops": [
+    {
+      "order_code": "MFF-00125",
+      "customer_name": "Fajar Pratama",
+      "latitude": -7.329,
+      "longitude": 112.779
+    },
+    {
+      "order_code": "MFF-00120",
+      "customer_name": "Siti Amalia",
+      "latitude": -7.318,
+      "longitude": 112.788
+    },
+    {
+      "order_code": "MFF-00118",
+      "customer_name": "Andi Wijaya",
+      "latitude": -7.335,
+      "longitude": 112.795
+    },
+    {
+      "order_code": "MFF-00131",
+      "customer_name": "Rani Contoh",
+      "latitude": -7.3105,
+      "longitude": 112.772
+    },
+    {
+      "order_code": "MFF-00133",
+      "customer_name": "Bimo Contoh",
+      "latitude": -7.336,
+      "longitude": 112.766
+    }
+  ]
+}

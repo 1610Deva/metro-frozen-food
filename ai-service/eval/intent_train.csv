@@ -1,0 +1,77 @@
+text,intent
+mau order banyak buat toko saya,eskalasi_owner
+bisa jadi reseller gak,eskalasi_owner
+ada harga grosir,eskalasi_owner
+saya punya warung mau ambil stok rutin,eskalasi_owner
+pesan untuk acara nikahan,eskalasi_owner
+bisa nego harganya,eskalasi_owner
+mau ajak kerja sama,eskalasi_owner
+barang yang saya terima rusak,eskalasi_owner
+minta refund dong,eskalasi_owner
+pesanan salah kirim,eskalasi_owner
+produknya halal tidak,eskalasi_owner
+mengandung pengawet gak,eskalasi_owner
+mau bicara sama ownernya,eskalasi_owner
+minta nomor wa admin,eskalasi_owner
+butuh supply untuk katering,eskalasi_owner
+pesan 100 pack bisa,eskalasi_owner
+budget 30 ribu dapat apa,rekomendasi_budget
+uang saya 75rb buat 2 hari,rekomendasi_budget
+rekomendasi belanja 100 ribu,rekomendasi_budget
+modal 50k makan bertiga,rekomendasi_budget
+anggaran 200rb buat seminggu,rekomendasi_budget
+punya duit 40 ribu enaknya beli apa,rekomendasi_budget
+saran lauk buat anak kos budget tipis,rekomendasi_budget
+60rb cukup buat makan apa aja,rekomendasi_budget
+rekomendasikan paket hemat,rekomendasi_budget
+cocoknya beli apa kalau cuma 45 ribu,rekomendasi_budget
+resep nugget apa ya,resep
+cara masak bakso,resep
+sosis enaknya diolah jadi apa,resep
+kasih ide menu dari fish roll,resep
+dimsum dimasak gimana,resep
+olahan karaage dong,resep
+seafood mix bisa dibikin apa,resep
+minta resep simpel,resep
+cara memasak kentang beku,resep
+masak apa hari ini pakai bakso,resep
+harga sosis berapa,info_produk
+nugget masih ada,info_produk
+stok bakso,info_produk
+jual dimsum gak,info_produk
+produk apa saja yang dijual,info_produk
+yang paling murah apa,info_produk
+fish roll isinya berapa gram,info_produk
+karaage ready kak,info_produk
+lihat katalog,info_produk
+seafood mix harganya,info_produk
+cara order gimana,info_layanan
+bisa dikirim ke rumah,info_layanan
+ongkirnya berapa,info_layanan
+pengiriman gabungan itu apa,info_layanan
+bisa ambil sendiri,info_layanan
+bayar pakai apa,info_layanan
+cabang terdekat dimana,info_layanan
+bagaimana checkout,info_layanan
+nota digital buat apa,info_layanan
+cara menyimpan frozen food,info_layanan
+halo,sapaan
+hai kak,sapaan
+selamat pagi,sapaan
+permisi,sapaan
+assalamualaikum,sapaan
+makasih ya,sapaan
+terima kasih kak,sapaan
+oke siap,sapaan
+malam min,sapaan
+hallo admin,sapaan
+siapa presiden sekarang,lainnya
+cuaca hari ini gimana,lainnya
+bantu kerjain pr matematika,lainnya
+ceritakan lelucon,lainnya
+skor bola tadi malam,lainnya
+kamu bisa bahasa inggris,lainnya
+rekomendasi film bagus,lainnya
+jual laptop gak,lainnya
+tolong buatkan puisi,lainnya
+1 tambah 1 berapa,lainnya

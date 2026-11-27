@@ -1,0 +1,52 @@
+[
+  {
+    "id": "6f8d75ef-5377-591a-805f-dacc1f90da66",
+    "code": "GBG",
+    "name": "Cabang Gubeng",
+    "address": "[DUMMY] Kecamatan Gubeng, Surabaya",
+    "latitude": -7.2756,
+    "longitude": 112.7545,
+    "is_active": true,
+    "is_dummy": true
+  },
+  {
+    "id": "622230bc-f8d2-5985-a8f2-83b6fadd9d25",
+    "code": "KJR",
+    "name": "Cabang Kenjeran",
+    "address": "[DUMMY] Kecamatan Kenjeran, Surabaya",
+    "latitude": -7.248,
+    "longitude": 112.778,
+    "is_active": true,
+    "is_dummy": true
+  },
+  {
+    "id": "dc45bdc4-669f-552c-9625-3912979be430",
+    "code": "SKL",
+    "name": "Cabang Sukolilo",
+    "address": "[DUMMY] Kecamatan Sukolilo, Surabaya",
+    "latitude": -7.2905,
+    "longitude": 112.796,
+    "is_active": true,
+    "is_dummy": true
+  },
+  {
+    "id": "985244e8-7cf9-51af-a6ee-a77860ba3b5b",
+    "code": "RKT",
+    "name": "Cabang Rungkut",
+    "address": "[DUMMY] Kecamatan Rungkut, Surabaya",
+    "latitude": -7.3225,
+    "longitude": 112.7685,
+    "is_active": true,
+    "is_dummy": true
+  },
+  {
+    "id": "c01ea15a-a144-59aa-b0c9-7d28bfacedc2",
+    "code": "WNK",
+    "name": "Cabang Wonokromo",
+    "address": "[DUMMY] Kecamatan Wonokromo, Surabaya",
+    "latitude": -7.3015,
+    "longitude": 112.737,
+    "is_active": true,
+    "is_dummy": true
+  }
+]

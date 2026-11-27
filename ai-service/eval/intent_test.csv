@@ -1,0 +1,56 @@
+text,intent
+kak kalau saya mau ambil banyak buat dijual lagi dapat potongan gak,eskalasi_owner
+kantin sekolah kami butuh pasokan tiap minggu,eskalasi_owner
+bisa minta harga khusus untuk langganan,eskalasi_owner
+kemarin sosisnya sampai sudah bau,eskalasi_owner
+paket saya kok belum datang,eskalasi_owner
+ini ada sertifikat halalnya,eskalasi_owner
+anak saya alergi udang aman gak,eskalasi_owner
+saya pengen ngobrol langsung sama pemiliknya,eskalasi_owner
+mau pesan 200 pcs dimsum,eskalasi_owner
+untuk hajatan minggu depan bisa disiapkan,eskalasi_owner
+uang saya sudah transfer tapi pesanan dibatalkan tolong dikembalikan,eskalasi_owner
+tertarik buka kemitraan di sidoarjo,eskalasi_owner
+mau pesan buat stok jualan gorengan saya,eskalasi_owner
+nuggetnya pas dibuka berjamur,eskalasi_owner
+aku cuma pegang 35rb bisa dapet apa,rekomendasi_budget
+tolong pilihin belanjaan 120 ribu untuk 4 hari,rekomendasi_budget
+bekal anak seminggu dana 90rb,rekomendasi_budget
+kalau 55000 buat berdua cukupnya beli apa,rekomendasi_budget
+"lagi hemat nih, 40 ribu buat lauk",rekomendasi_budget
+sarankan isi freezer dengan 250rb,rekomendasi_budget
+buat makan 5 hari enaknya beli apa aja,rekomendasi_budget
+gocap dapat apa kak,rekomendasi_budget
+bakso bagusnya dimasak apa,resep
+ada ide olahan sosis untuk sarapan,resep
+gimana cara goreng karaage biar renyah,resep
+resep dari seafood mix dong,resep
+nugget bisa diolah jadi menu apa,resep
+fish roll enaknya dibumbuin apa,resep
+"mau masak dimsum, caranya",resep
+berapaan bakso sapinya,info_produk
+dimsum ayam masih tersedia kah,info_produk
+ada kentang beku gak,info_produk
+chicken karaage harganya brp,info_produk
+kalian jualan apa aja sih,info_produk
+sosisnya satu bungkus berapa gram,info_produk
+nugget kosong ya di cabang gubeng,info_produk
+kalau mau beli lewat web langkahnya gimana,info_layanan
+bisa diantar ke alamat saya,info_layanan
+ambil langsung di cabang boleh,info_layanan
+metode pembayarannya apa saja,info_layanan
+bedanya kirim langsung sama gabungan apa,info_layanan
+toko tutup jam berapa,info_layanan
+cabang kalian ada di daerah mana,info_layanan
+halo min,sapaan
+siang kak,sapaan
+hai,sapaan
+terimakasih banyak,sapaan
+assalamu alaikum,sapaan
+pagi,sapaan
+buatkan saya kode python,lainnya
+ibukota jepang apa,lainnya
+lagi bosen nih,lainnya
+kamu robot ya,lainnya
+ada lowongan magang gak,lainnya
+jam berapa sekarang di london,lainnya

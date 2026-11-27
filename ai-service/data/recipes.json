@@ -1,0 +1,277 @@
+[
+  {
+    "id": "R01",
+    "title": "Sosis Tumis Kecap",
+    "portions": 2,
+    "minutes": 15,
+    "extra_ingredients": [
+      "bawang merah",
+      "bawang putih",
+      "cabai",
+      "kecap manis",
+      "minyak"
+    ],
+    "steps": [
+      "Iris serong sosis secukupnya.",
+      "Tumis bawang dan cabai sampai harum.",
+      "Masukkan sosis, beri kecap dan sedikit air.",
+      "Masak sampai sosis matang dan bumbu meresap."
+    ],
+    "is_dummy": true,
+    "product_types": [
+      "sosis"
+    ]
+  },
+  {
+    "id": "R02",
+    "title": "Nasi Goreng Sosis",
+    "portions": 2,
+    "minutes": 15,
+    "extra_ingredients": [
+      "nasi putih",
+      "telur",
+      "bawang",
+      "kecap",
+      "minyak",
+      "garam"
+    ],
+    "steps": [
+      "Orak-arik telur, sisihkan.",
+      "Tumis bawang dan irisan sosis sampai matang.",
+      "Masukkan nasi, kecap, garam, dan telur.",
+      "Aduk dengan api sedang sampai rata."
+    ],
+    "is_dummy": true,
+    "product_types": [
+      "sosis"
+    ]
+  },
+  {
+    "id": "R03",
+    "title": "Nugget Saus Asam Manis",
+    "portions": 2,
+    "minutes": 20,
+    "extra_ingredients": [
+      "bawang bombai",
+      "saus tomat",
+      "saus sambal",
+      "gula",
+      "minyak"
+    ],
+    "steps": [
+      "Goreng nugget sampai matang dan kecokelatan.",
+      "Tumis bawang bombai.",
+      "Masukkan saus, gula, dan sedikit air hingga mengental.",
+      "Campur nugget dengan saus sesaat sebelum disajikan."
+    ],
+    "is_dummy": true,
+    "product_types": [
+      "nugget"
+    ]
+  },
+  {
+    "id": "R04",
+    "title": "Bakso Kuah Sawi",
+    "portions": 2,
+    "minutes": 25,
+    "extra_ingredients": [
+      "sawi",
+      "bawang putih",
+      "daun bawang",
+      "garam",
+      "merica"
+    ],
+    "steps": [
+      "Didihkan air.",
+      "Tumis bawang putih lalu masukkan ke air.",
+      "Masukkan bakso, masak sampai matang merata.",
+      "Tambahkan sawi, garam, dan merica; angkat saat sawi layu."
+    ],
+    "is_dummy": true,
+    "product_types": [
+      "bakso"
+    ]
+  },
+  {
+    "id": "R05",
+    "title": "Capcay Seafood",
+    "portions": 3,
+    "minutes": 20,
+    "extra_ingredients": [
+      "wortel",
+      "sawi",
+      "kembang kol",
+      "bawang putih",
+      "saus tiram",
+      "maizena"
+    ],
+    "steps": [
+      "Cairkan seafood di kulkas lalu tiriskan.",
+      "Tumis bawang putih, masukkan wortel dan kembang kol dengan sedikit air.",
+      "Masukkan seafood dan masak sampai matang.",
+      "Tambahkan sawi, saus tiram, dan larutan maizena."
+    ],
+    "is_dummy": true,
+    "product_types": [
+      "seafood_mix"
+    ]
+  },
+  {
+    "id": "R06",
+    "title": "Fish Roll Bumbu Balado",
+    "portions": 2,
+    "minutes": 20,
+    "extra_ingredients": [
+      "cabai merah",
+      "bawang merah",
+      "bawang putih",
+      "tomat",
+      "garam",
+      "minyak"
+    ],
+    "steps": [
+      "Goreng fish roll sampai matang.",
+      "Haluskan kasar cabai, bawang, dan tomat.",
+      "Tumis bumbu sampai matang.",
+      "Masukkan fish roll, aduk rata."
+    ],
+    "is_dummy": true,
+    "product_types": [
+      "fish_roll"
+    ]
+  },
+  {
+    "id": "R07",
+    "title": "Sup Fish Roll Wortel",
+    "portions": 3,
+    "minutes": 25,
+    "extra_ingredients": [
+      "wortel",
+      "kentang segar",
+      "daun bawang",
+      "bawang putih",
+      "garam",
+      "merica"
+    ],
+    "steps": [
+      "Didihkan air dengan bawang putih tumis.",
+      "Masak wortel dan kentang sampai empuk.",
+      "Masukkan irisan fish roll sampai matang.",
+      "Beri garam, merica, dan daun bawang."
+    ],
+    "is_dummy": true,
+    "product_types": [
+      "fish_roll"
+    ]
+  },
+  {
+    "id": "R08",
+    "title": "Dimsum Kukus Saus Sambal",
+    "portions": 2,
+    "minutes": 15,
+    "extra_ingredients": [
+      "saus sambal",
+      "minyak wijen (opsional)"
+    ],
+    "steps": [
+      "Panaskan kukusan.",
+      "Tata dimsum dan beri jarak.",
+      "Kukus sampai matang merata.",
+      "Sajikan dengan saus."
+    ],
+    "is_dummy": true,
+    "product_types": [
+      "dimsum"
+    ]
+  },
+  {
+    "id": "R09",
+    "title": "Rice Bowl Chicken Karaage",
+    "portions": 2,
+    "minutes": 20,
+    "extra_ingredients": [
+      "nasi putih",
+      "kol",
+      "mayones",
+      "saus sambal",
+      "minyak"
+    ],
+    "steps": [
+      "Goreng karaage sampai matang.",
+      "Iris tipis kol.",
+      "Tata nasi, kol, dan karaage.",
+      "Beri saus."
+    ],
+    "is_dummy": true,
+    "product_types": [
+      "karaage"
+    ]
+  },
+  {
+    "id": "R10",
+    "title": "Kentang Goreng Bumbu Bawang",
+    "portions": 2,
+    "minutes": 15,
+    "extra_ingredients": [
+      "bawang putih bubuk",
+      "garam",
+      "minyak"
+    ],
+    "steps": [
+      "Panaskan minyak.",
+      "Goreng kentang dari keadaan beku sampai keemasan.",
+      "Tiriskan.",
+      "Taburi bumbu selagi panas."
+    ],
+    "is_dummy": true,
+    "product_types": [
+      "kentang"
+    ]
+  },
+  {
+    "id": "R11",
+    "title": "Ayam Tumis Bawang",
+    "portions": 3,
+    "minutes": 25,
+    "extra_ingredients": [
+      "bawang bombai",
+      "bawang putih",
+      "kecap asin",
+      "merica",
+      "minyak"
+    ],
+    "steps": [
+      "Cairkan ayam di kulkas lalu iris sesuai selera.",
+      "Tumis bawang putih dan bawang bombai sampai harum.",
+      "Masukkan ayam, masak sampai tidak ada bagian yang merah muda dan matang sampai ke dalam.",
+      "Beri kecap asin dan merica, aduk rata."
+    ],
+    "is_dummy": true,
+    "product_types": [
+      "ayam_fillet"
+    ]
+  },
+  {
+    "id": "R12",
+    "title": "Daging Slice Tumis Bawang Bombai",
+    "portions": 3,
+    "minutes": 15,
+    "extra_ingredients": [
+      "bawang bombai",
+      "bawang putih",
+      "kecap manis",
+      "saus tiram",
+      "minyak"
+    ],
+    "steps": [
+      "Cairkan daging di kulkas.",
+      "Tumis bawang putih dan bawang bombai.",
+      "Masukkan daging, aduk sampai berubah warna dan matang.",
+      "Beri kecap dan saus tiram, masak sampai bumbu meresap."
+    ],
+    "is_dummy": true,
+    "product_types": [
+      "daging_slice"
+    ]
+  }
+]

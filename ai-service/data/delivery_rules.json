@@ -1,0 +1,7 @@
+{
+  "is_dummy": true,
+  "direct_base_fee": 25000,
+  "batch_base_fee": 10000,
+  "other_branch_fee_per_km": 2000,
+  "max_delivery_km": 25
+}
